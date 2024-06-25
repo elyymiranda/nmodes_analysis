@@ -7,9 +7,10 @@ You can use this project to:
 2. Create geometries files for potential energy surface (PES) calculation using the normal coordinates given by G16 harmonic calculation; 
 3. Plot the anion-neutral PES with harmonic staps (ZPE, overtones).
 
-Here you can find a tiny tutorial to learn how you could employ this project:
-
 # Tutorial
+
+Here you can find a tiny tutorial to learn how you could employ this project.
+
 
 ## Calculate the anion-neutral vibronic excitation energies
 
