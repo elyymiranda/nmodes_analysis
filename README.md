@@ -11,7 +11,6 @@ You can use this project to:
 
 Here you can find a tiny tutorial to learn how you could employ this project.
 
-
 ## Calculate the anion-neutral vibronic excitation energies
 
 1. You shoud have the anion's and neutral's G16 frequency .log file and comp_table file (if you just have the anharmonic .log files, you also will need a single point .log file for each anion and neutral). The comp_table file exemple is in the exemple folder. Basically you shoud indicate the cgir orrepondence of neutral and anion normal modes. 
