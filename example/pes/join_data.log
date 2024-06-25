@@ -1,0 +1,388 @@
+Starting the analisys for modes comparison
+
+                              Done 1 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 1 normal mode <-> Anion's 1 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 56.8561
+	Anion: -297.9232
+
+	IR intensities (KM/Mole)
+	Neutral: 4.9073
+	Anion: 0.1184    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 2 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 2 normal mode <-> Anion's 2 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 102.1480
+	Anion: -134.4685
+
+	IR intensities (KM/Mole)
+	Neutral: 8.5792
+	Anion: 8.6854    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 3 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 3 normal mode <-> Anion's 3 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 147.2710
+	Anion: 73.5078
+
+	IR intensities (KM/Mole)
+	Neutral: 4.2487
+	Anion: 4.6390    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 4 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 4 normal mode <-> Anion's 5 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 215.6237
+	Anion: 158.5329
+
+	IR intensities (KM/Mole)
+	Neutral: 8.5490
+	Anion: 23.8420    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 5 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 5 normal mode <-> Anion's 6 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 368.3804
+	Anion: 294.4004
+
+	IR intensities (KM/Mole)
+	Neutral: 34.7780
+	Anion: 13.2403    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 6 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 6 normal mode <-> Anion's 4 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 383.3028
+	Anion: 83.8258
+
+	IR intensities (KM/Mole)
+	Neutral: 9.8701
+	Anion: 1.6487    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 7 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 7 normal mode <-> Anion's 7 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 520.1806
+	Anion: 530.3397
+
+	IR intensities (KM/Mole)
+	Neutral: 4.5205
+	Anion: 1.7798    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 8 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 8 normal mode <-> Anion's 9 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 670.4147
+	Anion: 618.9012
+
+	IR intensities (KM/Mole)
+	Neutral: 40.5724
+	Anion: 5.1331    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 9 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 9 normal mode <-> Anion's 8 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 671.9037
+	Anion: 571.1204
+
+	IR intensities (KM/Mole)
+	Neutral: 56.3419
+	Anion: 16.5303    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 10 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 10 normal mode <-> Anion's 10 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 726.6142
+	Anion: 714.5995
+
+	IR intensities (KM/Mole)
+	Neutral: 49.0129
+	Anion: 74.3414    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 11 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 11 normal mode <-> Anion's 11 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 745.0287
+	Anion: 720.7653
+
+	IR intensities (KM/Mole)
+	Neutral: 8.2888
+	Anion: 39.4840    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 12 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 12 normal mode <-> Anion's 12 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 828.3007
+	Anion: 800.5592
+
+	IR intensities (KM/Mole)
+	Neutral: 7.5637
+	Anion: 24.0004    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 13 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 13 normal mode <-> Anion's 13 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 896.5022
+	Anion: 809.6838
+
+	IR intensities (KM/Mole)
+	Neutral: 2.9269
+	Anion: 4.2201    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 14 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 14 normal mode <-> Anion's 14 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 1077.5342
+	Anion: 1067.5517
+
+	IR intensities (KM/Mole)
+	Neutral: 88.2510
+	Anion: 38.7971    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 15 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 15 normal mode <-> Anion's 15 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 1147.8508
+	Anion: 1071.5630
+
+	IR intensities (KM/Mole)
+	Neutral: 0.7272
+	Anion: 0.3534    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 16 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 16 normal mode <-> Anion's 16 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 1238.0537
+	Anion: 1169.3767
+
+	IR intensities (KM/Mole)
+	Neutral: 8.2459
+	Anion: 125.4295    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 17 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 17 normal mode <-> Anion's 17 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 1308.4440
+	Anion: 1231.7483
+
+	IR intensities (KM/Mole)
+	Neutral: 64.5061
+	Anion: 62.1654    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 18 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 18 normal mode <-> Anion's 18 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 1404.5932
+	Anion: 1420.5823
+
+	IR intensities (KM/Mole)
+	Neutral: 97.7071
+	Anion: 84.8368    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 19 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 19 normal mode <-> Anion's 19 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 1442.2053
+	Anion: 1436.9096
+
+	IR intensities (KM/Mole)
+	Neutral: 324.9184
+	Anion: 519.3853    	
+	
+    ---------------------------------------------------------------------------
+	
+                              Done 20 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 20 normal mode <-> Anion's 20 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 1859.9381
+	Anion: 1903.0624
+
+	IR intensities (KM/Mole)
+	Neutral: 103.4019
+	Anion: 485.1821    	
+	
+	Some calculation in -1.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.60 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.70 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 1.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 21 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 21 normal mode <-> Anion's 21 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 1910.9661
+	Anion: 1960.1814
+
+	IR intensities (KM/Mole)
+	Neutral: 220.8211
+	Anion: 94.7575    	
+	
+	Some calculation in -1.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.70 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.60 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 22 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 22 normal mode <-> Anion's 22 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 3108.8908
+	Anion: 3066.0484
+
+	IR intensities (KM/Mole)
+	Neutral: 12.5497
+	Anion: 41.4301    	
+	
+	Some calculation in -1.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.80 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 23 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 23 normal mode <-> Anion's 23 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 3167.6164
+	Anion: 3102.0690
+
+	IR intensities (KM/Mole)
+	Neutral: 5.1060
+	Anion: 16.1750    	
+	
+	Some calculation in -1.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 1.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 24 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 24 normal mode <-> Anion's 24 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 3687.2200
+	Anion: 3657.7481
+
+	IR intensities (KM/Mole)
+	Neutral: 122.0262
+	Anion: 52.4907    	
+	
+	Some calculation in -1.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.70 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.60 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.50 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	

@@ -1,0 +1,653 @@
+Starting the analisys for modes comparison
+
+                              Done 1 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 1 normal mode <-> Anion's 1 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 57.7659
+	Anion: -297.4712
+
+	IR intensities (KM/Mole)
+	Neutral: 4.4503
+	Anion: 0.1314    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 2 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 2 normal mode <-> Anion's 2 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 101.9143
+	Anion: -133.4637
+
+	IR intensities (KM/Mole)
+	Neutral: 9.1594
+	Anion: 8.6837    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 3 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 3 normal mode <-> Anion's 3 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 144.5985
+	Anion: 58.1971
+
+	IR intensities (KM/Mole)
+	Neutral: 5.6195
+	Anion: 9.6383    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.10 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.15 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.20 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.25 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.30 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.35 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.40 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.45 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.50 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.55 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.60 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.65 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.70 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.75 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.85 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.95 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 1.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 4 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 4 normal mode <-> Anion's 5 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 213.5883
+	Anion: 145.4555
+
+	IR intensities (KM/Mole)
+	Neutral: 9.8275
+	Anion: 24.7686    	
+	
+	Some calculation in -1.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.95 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.85 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.75 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.70 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.65 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.60 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.55 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.50 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.45 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.40 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.35 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.30 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.25 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.20 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.15 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.10 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.05 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.05 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.10 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.15 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.20 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.25 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.30 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.35 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.40 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.45 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.50 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.55 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.60 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.65 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.70 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.75 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.85 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.95 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 1.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 5 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 5 normal mode <-> Anion's 6 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 349.9826
+	Anion: 274.5685
+
+	IR intensities (KM/Mole)
+	Neutral: 34.6848
+	Anion: 9.6884    	
+	
+	Some calculation in -1.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.95 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.85 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.75 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.70 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.65 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.60 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.55 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.50 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.45 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.40 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.35 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.30 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.25 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.20 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.15 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.10 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.05 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.05 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.10 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.15 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.20 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.25 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.30 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.35 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.40 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.45 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.50 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.55 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.60 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.65 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.70 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.75 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.85 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.95 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 1.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 6 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 6 normal mode <-> Anion's 4 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 383.5303
+	Anion: 83.2971
+
+	IR intensities (KM/Mole)
+	Neutral: 9.8477
+	Anion: 1.6985    	
+	
+	Some calculation in -1.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.95 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.85 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.75 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.70 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.65 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.60 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.55 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.50 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.45 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.40 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.35 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.30 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.25 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.20 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.15 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.10 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.05 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.05 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.10 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.15 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.20 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.25 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.30 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.35 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.40 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.45 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.50 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.55 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.60 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.65 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.70 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.75 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.85 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.95 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 1.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 7 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 7 normal mode <-> Anion's 7 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 519.7885
+	Anion: 529.5217
+
+	IR intensities (KM/Mole)
+	Neutral: 4.8965
+	Anion: 1.9904    	
+	
+	Some calculation in -1.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.95 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.85 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.75 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.70 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.65 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.60 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.55 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.50 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.45 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.40 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.35 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.30 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.25 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.20 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.15 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.10 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.05 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.05 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.10 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.15 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.20 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.25 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.30 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.35 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.40 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.45 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.50 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.55 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.60 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.65 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.70 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.75 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.85 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.95 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 1.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 8 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 8 normal mode <-> Anion's 9 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 669.4662
+	Anion: 616.5426
+
+	IR intensities (KM/Mole)
+	Neutral: 39.7193
+	Anion: 5.0447    	
+	
+	Some calculation in -1.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.95 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.85 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.75 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.70 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.65 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.60 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.55 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.50 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.45 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.40 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.35 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.30 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.25 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.20 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.15 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.10 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.05 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.05 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.10 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.15 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.20 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.25 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.30 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.35 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.40 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.45 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.50 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.55 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.60 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.65 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.70 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.75 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.85 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.95 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 1.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 9 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 9 normal mode <-> Anion's 8 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 671.4694
+	Anion: 570.7415
+
+	IR intensities (KM/Mole)
+	Neutral: 58.0993
+	Anion: 16.6662    	
+	
+	Some calculation in -1.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.95 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.85 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.75 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.70 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.65 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.60 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.55 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.50 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.45 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.40 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.35 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.30 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.25 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.20 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.15 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.10 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.05 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.05 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.10 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.15 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.20 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.25 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.30 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.35 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.40 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.45 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.50 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.55 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.60 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.65 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.70 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.75 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.80 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.85 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.90 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.95 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 1.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 10 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 10 normal mode <-> Anion's 10 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 725.1754
+	Anion: 712.7235
+
+	IR intensities (KM/Mole)
+	Neutral: 47.2017
+	Anion: 74.2657    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 11 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 11 normal mode <-> Anion's 11 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 745.0344
+	Anion: 721.0693
+
+	IR intensities (KM/Mole)
+	Neutral: 8.8257
+	Anion: 39.6689    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 12 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 12 normal mode <-> Anion's 12 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 827.3010
+	Anion: 798.8898
+
+	IR intensities (KM/Mole)
+	Neutral: 8.1366
+	Anion: 24.5057    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 13 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 13 normal mode <-> Anion's 13 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 896.8771
+	Anion: 810.9837
+
+	IR intensities (KM/Mole)
+	Neutral: 2.9401
+	Anion: 4.1433    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 14 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 14 normal mode <-> Anion's 14 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 1078.0840
+	Anion: 1068.1183
+
+	IR intensities (KM/Mole)
+	Neutral: 88.8783
+	Anion: 38.9389    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 15 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 15 normal mode <-> Anion's 15 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 1148.1533
+	Anion: 1072.8366
+
+	IR intensities (KM/Mole)
+	Neutral: 0.7229
+	Anion: 0.3502    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 16 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 16 normal mode <-> Anion's 16 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 1228.3827
+	Anion: 1157.1847
+
+	IR intensities (KM/Mole)
+	Neutral: 17.5776
+	Anion: 99.2593    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 17 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 17 normal mode <-> Anion's 17 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 1305.1405
+	Anion: 1231.4615
+
+	IR intensities (KM/Mole)
+	Neutral: 71.5564
+	Anion: 81.7974    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 18 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 18 normal mode <-> Anion's 18 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 1404.7200
+	Anion: 1416.8186
+
+	IR intensities (KM/Mole)
+	Neutral: 115.6635
+	Anion: 308.2830    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 19 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 19 normal mode <-> Anion's 19 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 1436.1266
+	Anion: 1430.1006
+
+	IR intensities (KM/Mole)
+	Neutral: 287.9672
+	Anion: 300.6483    	
+	
+	Some calculation in -1.00 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in -0.95 step does not converged. Check gaussian .log neutral and anion files
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 20 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 20 normal mode <-> Anion's 20 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 1860.0056
+	Anion: 1902.6524
+
+	IR intensities (KM/Mole)
+	Neutral: 103.8670
+	Anion: 488.7058    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 21 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 21 normal mode <-> Anion's 21 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 1910.1362
+	Anion: 1959.7101
+
+	IR intensities (KM/Mole)
+	Neutral: 221.9625
+	Anion: 92.2737    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 22 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 22 normal mode <-> Anion's 22 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 3108.5344
+	Anion: 3065.5088
+
+	IR intensities (KM/Mole)
+	Neutral: 12.5566
+	Anion: 41.4289    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 23 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 23 normal mode <-> Anion's 23 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 3167.2206
+	Anion: 3101.4319
+
+	IR intensities (KM/Mole)
+	Neutral: 5.0918
+	Anion: 16.1762    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	
+                              Done 24 of 24 
+    ---------------------------------------------------------------------------
+	Normal mode correspondence from table
+	Neutral's 24 normal mode <-> Anion's 24 normal mode
+	
+	Frequencies (cm**-1)
+	Neutral: 3682.6333
+	Anion: 3652.5806
+
+	IR intensities (KM/Mole)
+	Neutral: 122.2806
+	Anion: 52.6077    	
+	
+	Some calculation in 0.00 step does not converged. Check gaussian .log neutral and anion files
+    ---------------------------------------------------------------------------
+	

@@ -1,0 +1,273 @@
+Neutral single point energy: -2915.90332813 a.u.
+Anion single point energy: -2915.91828966 a.u.
+Vertical electron energy difference: -407.12 meV
+Anhamornic analisys: 
+
+Normal mode 24 (Neutral: 3942 cm^-1; x_e = 0.020 and Anion: 3973 cm^-1; x_e = 0.031)
+  ZPE to ZPE: -406.49 meV
+  Excitation to level 1: 55.62 meV
+  Excitation to level 2: 487.28 meV
+  Excitation to level 3: 888.50 meV
+  Excitation to level 4: 1259.26 meV
+  Excitation to level 5: 1599.58 meV
+  Excitation to level 6: 1909.45 meV
+  Excitation to level 7: 2188.88 meV
+  Excitation to level 8: 2437.85 meV
+  Excitation to level 9: 2656.38 meV
+  Excitation to level 10: 2844.46 meV
+Normal mode 23 (Neutral: 2973 cm^-1; x_e = 0.014 and Anion: 3050 cm^-1; x_e = 0.033)
+  ZPE to ZPE: -404.20 meV
+  Excitation to level 1: -50.95 meV
+  Excitation to level 2: 277.47 meV
+  Excitation to level 3: 581.05 meV
+  Excitation to level 4: 859.80 meV
+  Excitation to level 5: 1113.72 meV
+  Excitation to level 6: 1342.81 meV
+  Excitation to level 7: 1547.06 meV
+  Excitation to level 8: 1726.47 meV
+  Excitation to level 9: 1881.06 meV
+  Excitation to level 10: 2010.81 meV
+Normal mode 22 (Neutral: 1922 cm^-1; x_e = 0.004 and Anion: 1941 cm^-1; x_e = 0.007)
+  ZPE to ZPE: -406.15 meV
+  Excitation to level 1: -169.01 meV
+  Excitation to level 2: 64.64 meV
+  Excitation to level 3: 294.77 meV
+  Excitation to level 4: 521.41 meV
+  Excitation to level 5: 744.54 meV
+  Excitation to level 6: 964.16 meV
+  Excitation to level 7: 1180.28 meV
+  Excitation to level 8: 1392.89 meV
+  Excitation to level 9: 1602.00 meV
+  Excitation to level 10: 1807.60 meV
+Normal mode 21 (Neutral: 1847 cm^-1; x_e = 0.006 and Anion: 1848 cm^-1; x_e = -0.004)
+  ZPE to ZPE: -406.48 meV
+  Excitation to level 1: -175.52 meV
+  Excitation to level 2: 57.23 meV
+  Excitation to level 3: 291.77 meV
+  Excitation to level 4: 528.11 meV
+  Excitation to level 5: 766.24 meV
+  Excitation to level 6: 1006.17 meV
+  Excitation to level 7: 1247.89 meV
+  Excitation to level 8: 1491.40 meV
+  Excitation to level 9: 1736.71 meV
+  Excitation to level 10: 1983.82 meV
+Normal mode 20 (Neutral: 1857 cm^-1; x_e = 0.018 and Anion: 1765 cm^-1; x_e = 0.071)
+  ZPE to ZPE: -415.64 meV
+  Excitation to level 1: -227.76 meV
+  Excitation to level 2: -70.83 meV
+  Excitation to level 3: 55.15 meV
+  Excitation to level 4: 150.18 meV
+  Excitation to level 5: 214.25 meV
+  Excitation to level 6: 247.38 meV
+  Excitation to level 7: 249.56 meV
+  Excitation to level 8: 220.79 meV
+  Excitation to level 9: 161.06 meV
+  Excitation to level 10: 70.39 meV
+Normal mode 19 (Neutral: 1377 cm^-1; x_e = 0.001 and Anion: 1113 cm^-1; x_e = -0.080)
+  ZPE to ZPE: -420.74 meV
+  Excitation to level 1: -260.81 meV
+  Excitation to level 2: -78.89 meV
+  Excitation to level 3: 125.02 meV
+  Excitation to level 4: 350.92 meV
+  Excitation to level 5: 598.80 meV
+  Excitation to level 6: 868.68 meV
+  Excitation to level 7: 1160.54 meV
+  Excitation to level 8: 1474.40 meV
+  Excitation to level 9: 1810.24 meV
+  Excitation to level 10: 2168.07 meV
+Normal mode 18 (Neutral: 594 cm^-1; x_e = -0.493 and Anion: 1067 cm^-1; x_e = -0.028)
+  ZPE to ZPE: -385.94 meV
+  Excitation to level 1: -246.32 meV
+  Excitation to level 2: -99.40 meV
+  Excitation to level 3: 54.81 meV
+  Excitation to level 4: 216.31 meV
+  Excitation to level 5: 385.11 meV
+  Excitation to level 6: 561.19 meV
+  Excitation to level 7: 744.56 meV
+  Excitation to level 8: 935.23 meV
+  Excitation to level 9: 1133.19 meV
+  Excitation to level 10: 1338.43 meV
+Normal mode 17 (Neutral: 2448 cm^-1; x_e = 0.078 and Anion: 1311 cm^-1; x_e = 0.031)
+  ZPE to ZPE: -473.01 meV
+  Excitation to level 1: -320.61 meV
+  Excitation to level 2: -178.31 meV
+  Excitation to level 3: -46.13 meV
+  Excitation to level 4: 75.94 meV
+  Excitation to level 5: 187.91 meV
+  Excitation to level 6: 289.77 meV
+  Excitation to level 7: 381.52 meV
+  Excitation to level 8: 463.15 meV
+  Excitation to level 9: 534.68 meV
+  Excitation to level 10: 596.11 meV
+Normal mode 16 (Neutral: 1051 cm^-1; x_e = 0.002 and Anion: 982 cm^-1; x_e = 0.003)
+  ZPE to ZPE: -411.49 meV
+  Excitation to level 1: -290.58 meV
+  Excitation to level 2: -170.48 meV
+  Excitation to level 3: -51.17 meV
+  Excitation to level 4: 67.33 meV
+  Excitation to level 5: 185.04 meV
+  Excitation to level 6: 301.94 meV
+  Excitation to level 7: 418.04 meV
+  Excitation to level 8: 533.34 meV
+  Excitation to level 9: 647.84 meV
+  Excitation to level 10: 761.54 meV
+Normal mode 15 (Neutral: 898 cm^-1; x_e = 0.005 and Anion: 814 cm^-1; x_e = 0.004)
+  ZPE to ZPE: -412.32 meV
+  Excitation to level 1: -312.16 meV
+  Excitation to level 2: -212.76 meV
+  Excitation to level 3: -114.11 meV
+  Excitation to level 4: -16.21 meV
+  Excitation to level 5: 80.94 meV
+  Excitation to level 6: 177.33 meV
+  Excitation to level 7: 272.97 meV
+  Excitation to level 8: 367.85 meV
+  Excitation to level 9: 461.99 meV
+  Excitation to level 10: 555.37 meV
+Normal mode 14 (Neutral: 662 cm^-1; x_e = -0.039 and Anion: 708 cm^-1; x_e = 0.002)
+  ZPE to ZPE: -405.10 meV
+  Excitation to level 1: -317.64 meV
+  Excitation to level 2: -230.52 meV
+  Excitation to level 3: -143.76 meV
+  Excitation to level 4: -57.35 meV
+  Excitation to level 5: 28.72 meV
+  Excitation to level 6: 114.43 meV
+  Excitation to level 7: 199.80 meV
+  Excitation to level 8: 284.81 meV
+  Excitation to level 9: 369.48 meV
+  Excitation to level 10: 453.79 meV
+Normal mode 13 (Neutral: 829 cm^-1; x_e = 0.028 and Anion: 650 cm^-1; x_e = 0.020)
+  ZPE to ZPE: -417.92 meV
+  Excitation to level 1: -340.57 meV
+  Excitation to level 2: -266.40 meV
+  Excitation to level 3: -195.42 meV
+  Excitation to level 4: -127.62 meV
+  Excitation to level 5: -63.00 meV
+  Excitation to level 6: -1.56 meV
+  Excitation to level 7: 56.70 meV
+  Excitation to level 8: 111.77 meV
+  Excitation to level 9: 163.65 meV
+  Excitation to level 10: 212.36 meV
+Normal mode 12 (Neutral: 550 cm^-1; x_e = 0.005 and Anion: 495 cm^-1; x_e = -0.022)
+  ZPE to ZPE: -410.11 meV
+  Excitation to level 1: -346.04 meV
+  Excitation to level 2: -279.30 meV
+  Excitation to level 3: -209.90 meV
+  Excitation to level 4: -137.82 meV
+  Excitation to level 5: -63.08 meV
+  Excitation to level 6: 14.33 meV
+  Excitation to level 7: 94.41 meV
+  Excitation to level 8: 177.16 meV
+  Excitation to level 9: 262.58 meV
+  Excitation to level 10: 350.66 meV
+Normal mode 11 (Neutral: 1160 cm^-1; x_e = -0.205 and Anion: 474 cm^-1; x_e = 0.166)
+  ZPE to ZPE: -459.49 meV
+  Excitation to level 1: -420.24 meV
+  Excitation to level 2: -400.47 meV
+  Excitation to level 3: -400.19 meV
+  Excitation to level 4: -419.40 meV
+  Excitation to level 5: -458.10 meV
+  Excitation to level 6: -516.28 meV
+  Excitation to level 7: -593.95 meV
+  Excitation to level 8: -691.12 meV
+  Excitation to level 9: -807.77 meV
+  Excitation to level 10: -943.91 meV
+Normal mode 10 (Neutral: 897 cm^-1; x_e = 0.196 and Anion: 150 cm^-1; x_e = 0.201)
+  ZPE to ZPE: -448.88 meV
+  Excitation to level 1: -437.74 meV
+  Excitation to level 2: -434.09 meV
+  Excitation to level 3: -437.93 meV
+  Excitation to level 4: -449.27 meV
+  Excitation to level 5: -468.11 meV
+  Excitation to level 6: -494.44 meV
+  Excitation to level 7: -528.27 meV
+  Excitation to level 8: -569.60 meV
+  Excitation to level 9: -618.42 meV
+  Excitation to level 10: -674.73 meV
+Normal mode 9 (Neutral: -192 cm^-1; x_e = 0.966 and Anion: 168 cm^-1; x_e = 0.081)
+  ZPE to ZPE: -390.98 meV
+  Excitation to level 1: -373.55 meV
+  Excitation to level 2: -359.47 meV
+  Excitation to level 3: -348.73 meV
+  Excitation to level 4: -341.33 meV
+  Excitation to level 5: -337.29 meV
+  Excitation to level 6: -336.58 meV
+  Excitation to level 7: -339.23 meV
+  Excitation to level 8: -345.21 meV
+  Excitation to level 9: -354.55 meV
+  Excitation to level 10: -367.23 meV
+Normal mode 8 (Neutral: 3032 cm^-1; x_e = 0.015 and Anion: 2874 cm^-1; x_e = 0.002)
+  ZPE to ZPE: -415.66 meV
+  Excitation to level 1: -60.75 meV
+  Excitation to level 2: 292.80 meV
+  Excitation to level 3: 644.99 meV
+  Excitation to level 4: 995.82 meV
+  Excitation to level 5: 1345.29 meV
+  Excitation to level 6: 1693.40 meV
+  Excitation to level 7: 2040.15 meV
+  Excitation to level 8: 2385.53 meV
+  Excitation to level 9: 2729.56 meV
+  Excitation to level 10: 3072.22 meV
+Normal mode 7 (Neutral: 1111 cm^-1; x_e = 0.004 and Anion: 1035 cm^-1; x_e = 0.009)
+  ZPE to ZPE: -412.05 meV
+  Excitation to level 1: -286.09 meV
+  Excitation to level 2: -162.45 meV
+  Excitation to level 3: -41.13 meV
+  Excitation to level 4: 77.87 meV
+  Excitation to level 5: 194.54 meV
+  Excitation to level 6: 308.90 meV
+  Excitation to level 7: 420.94 meV
+  Excitation to level 8: 530.65 meV
+  Excitation to level 9: 638.05 meV
+  Excitation to level 10: 743.12 meV
+Normal mode 6 (Neutral: 864 cm^-1; x_e = 0.001 and Anion: 749 cm^-1; x_e = 0.006)
+  ZPE to ZPE: -414.36 meV
+  Excitation to level 1: -322.62 meV
+  Excitation to level 2: -232.03 meV
+  Excitation to level 3: -142.59 meV
+  Excitation to level 4: -54.29 meV
+  Excitation to level 5: 32.87 meV
+  Excitation to level 6: 118.88 meV
+  Excitation to level 7: 203.74 meV
+  Excitation to level 8: 287.47 meV
+  Excitation to level 9: 370.05 meV
+  Excitation to level 10: 451.48 meV
+Normal mode 5 (Neutral: 798 cm^-1; x_e = 0.030 and Anion: 616 cm^-1; x_e = 0.059)
+  ZPE to ZPE: -418.76 meV
+  Excitation to level 1: -351.31 meV
+  Excitation to level 2: -292.81 meV
+  Excitation to level 3: -243.28 meV
+  Excitation to level 4: -202.71 meV
+  Excitation to level 5: -171.10 meV
+  Excitation to level 6: -148.44 meV
+  Excitation to level 7: -134.75 meV
+  Excitation to level 8: -130.02 meV
+  Excitation to level 9: -134.25 meV
+  Excitation to level 10: -147.44 meV
+Normal mode 4 (Neutral: 606 cm^-1; x_e = -0.025 and Anion: 535 cm^-1; x_e = 0.013)
+  ZPE to ZPE: -412.23 meV
+  Excitation to level 1: -347.63 meV
+  Excitation to level 2: -284.75 meV
+  Excitation to level 3: -223.59 meV
+  Excitation to level 4: -164.16 meV
+  Excitation to level 5: -106.45 meV
+  Excitation to level 6: -50.46 meV
+  Excitation to level 7: 3.80 meV
+  Excitation to level 8: 56.34 meV
+  Excitation to level 9: 107.16 meV
+  Excitation to level 10: 156.25 meV
+Normal mode 3 (Neutral: 359 cm^-1; x_e = 0.003 and Anion: 95 cm^-1; x_e = 0.002)
+  ZPE to ZPE: -423.45 meV
+  Excitation to level 1: -411.71 meV
+  Excitation to level 2: -400.02 meV
+  Excitation to level 3: -388.38 meV
+  Excitation to level 4: -376.78 meV
+  Excitation to level 5: -365.24 meV
+  Excitation to level 6: -353.74 meV
+  Excitation to level 7: -342.29 meV
+  Excitation to level 8: -330.89 meV
+  Excitation to level 9: -319.54 meV
+  Excitation to level 10: -308.24 meV
+Normal mode 2: Skipping due to negative frequency.
+Normal mode 1: Skipping due to negative frequency.
+
+End of anharmonic analisys
