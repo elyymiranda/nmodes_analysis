@@ -1,6 +1,6 @@
 # Introduction
 
-This project made for G16 frequency analisys of vibronic anion-neutral excitation. Basically, it is useful to analyse Vibrational Feshbach Ressonance energies for low-energy electron-molecule process.
+This project was made for vibronic anion-neutral excitation analisys using frequency G16 calcutions. Basically, it is useful to analyse Vibrational Feshbach Ressonance energies for low-energy electron-molecule process.
 
 You can use this project to:
 1. Calculate the anion-neutral vibronic excitation energies for both harminic and anharmonic calculations; 
