@@ -15,13 +15,16 @@ Here you can find a tiny tutorial to learn how you could employ this project:
 
 1. You shoud have the anion's and neutral's G16 frequency .log file and comp_table file. The comp_table file exemple is in the exemple folder. Basically you shoud indicate the cgir orrepondence of neutral and anion normal modes. 
 
-2. For harmonic case: Use *split_frequencies.sh* script to each anion and neutral .log files to creatre the nmode.dat files
-``$ ./split_frequencies.sh neutral.log``
-``$ mkdir neutral``
-``$ mv nmode* neutral/``
+2. Creating nmode.dat files: 
 
-``$ ./split_frequencies.sh anion.log``
-``$ mkdir anion``
-``$ mv nmode* anion/``
+For harmonic case: Use *split_frequencies.sh* script to each anion and neutral .log files to creatre the nmode.dat files
+``` bash
+$ ./split_frequencies.sh neutral.log
+$ mkdir neutral
+$ mv nmode* neutral/
 
+$ ./split_frequencies.sh anion.log
+$ mkdir anion
+$ mv nmode* anion/
+```
 For anharmonic case:
